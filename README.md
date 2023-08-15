@@ -5,7 +5,7 @@ The main file containing code for question 1 of this research project is [questi
 
 Links for quick access:
 [Covid counts in the United States (2020-2023)](question1data/us.csv)
-[Covid counts per county in the United States](https://github.com/nytimes/covid-19-data/blob/master/us-counties-2020.csv)
+[Covid counts per county in the United States](question1data/us-counties-2020.csv)
 [Mask Usage Data](question1data/mask_use.csv)
 
 In addition, the following libraries need to be downloaded in order to run the code:
