@@ -4,9 +4,10 @@
 The main file containing code for question 1 of this research project is [question1.py](question1.py). This file defines four different functions that are called in the 'main' function, which is where they are run. In order for these functions to yield their respective results, all the files in the *question1data* folder must be downloaded.
 
 Links for quick access:
-[Covid counts in the United States (2020-2023)](question1data/us.csv)
-[Covid counts per county in the United States](question1data/us-counties-2020.csv)
-[Mask Usage Data](question1data/mask_use.csv)
+- [Covid counts in the United States (2020-2023)](question1data/us.csv)
+- [Covid counts per county in the United States](question1data/us-counties-2020.csv)
+- [Mask Usage Data](question1data/mask_use.csv)
+- [US Counties Geojson file](question1data/geojson-counties-fips.jsongit pull)
 
 In addition, the following libraries need to be downloaded in order to run the code:
 - pandas
