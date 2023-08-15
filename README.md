@@ -1,7 +1,21 @@
 # Covid-Research-Project
 
 ## Question 1:
-The main file containing code for question 1 of this research project is [question1.py](question1.py).
+The main file containing code for question 1 of this research project is [question1.py](question1.py). This file defines four different functions that are called in the 'main' function, which is where they are run. In order for these functions to yield their respective results, all the files in the *question1data* folder must be downloaded.
+
+Links for quick access:
+[Covid counts in the United States (2020-2023)](question1data/us.csv)
+[Covid counts per county in the United States](https://github.com/nytimes/covid-19-data/blob/master/us-counties-2020.csv)
+[Mask Usage Data](question1data/mask_use.csv)
+
+In addition, the following libraries need to be downloaded in order to run the code:
+- pandas
+- matplotlib (for matplotlib.pyplot and matplotlib.dates)
+- seaborn
+- json
+- plotly (for plotly.express)
+
+The first function in question1.py will save the plot to an image called _'line_plot_covid_progression.png'_. The final three functions will display their respective figures on separate web pages, which should automatically open once developed.
 
 ## Question 2:
 The main file to be accessed for question 2 of this research project is [question2.py](question2.py). Within this file there are four functions to be run. In order to run them, you must download all the files in the *question2data* folder. 
