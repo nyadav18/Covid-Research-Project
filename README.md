@@ -7,7 +7,7 @@ Links for quick access:
 - [Covid counts in the United States (2020-2023)](question1data/us.csv)
 - [Covid counts per county in the United States](question1data/us-counties-2020.csv)
 - [Mask Usage Data](question1data/mask_use.csv)
-- [US Counties Geojson file](question1data/geojson-counties-fips.jsongit pull)
+- [US Counties Geojson file](question1data/geojson-counties-fips.json)
 
 In addition, the following libraries need to be downloaded in order to run the code:
 - pandas
