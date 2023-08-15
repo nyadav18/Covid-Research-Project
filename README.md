@@ -1,5 +1,8 @@
 # Covid-Research-Project
 
+## Question 1:
+The main file containing code for question 1 of this research project is [question1.py](question1.py).
+
 ## Question 2:
 The main file to be accessed for question 2 of this research project is [question2.py](question2.py). Within this file there are four functions to be run. In order to run them, you must download all the files in the *question2data* folder. 
 
