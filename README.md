@@ -36,3 +36,21 @@ Link for quick access:
 
 Two out of the four funtions in *question2.py* don't print anything, they just return the processed datasets and the merged dataframe. The final two functions print the results along with returning them. When you run the file, you will have 4 lines of output. The first is the mean squared error, second is R-squared, third is the correlation coefficient, and the fourth is the p-value.
 
+## Question 3:
+The main file containing code for question 3 of this research project is [question3.py](question3.py). This file defines four different functions that are called in the 'main' function, which is where they are run. In order for these functions to yield their respective results, all the files in the *question1data* folder must be downloaded.
+
+Links for quick access:
+- [Covid counts in the United States (2020-2023)](question3data/us.csv)
+- [Covid counts per state in the United States](question3data/us-states.csv)
+- [National U.S Unemployment Rates](question3data/unemployment_rates.csv)
+- [Unemployment Rates for U.S States](question3data/unemployment_rates_states.csv)
+- [US States Geojson file](question3data/us-states.json)
+
+In addition, the following libraries need to be downloaded in order to run the code:
+- pandas
+- matplotlib (for matplotlib.pyplot)
+- seaborn
+- geopandas
+
+The first function in question1.py will save the plot to an image called 'covid_and_unemployment.png'. The final two functions will save their respective figures to images called 'covid_cases_by_state.png' and 'unemployment_rates_by_state.png'.
+
